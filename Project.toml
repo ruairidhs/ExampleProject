@@ -1,0 +1,5 @@
+name = "ExampleProject"
+uuid = "89bf4539-8c30-4069-846b-5c232374c9c2"
+
+[deps]
+LinearRegression = "61191c17-38b1-40f2-b274-98029a634710"

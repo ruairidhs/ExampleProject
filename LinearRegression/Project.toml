@@ -1,0 +1,6 @@
+name = "LinearRegression"
+uuid = "61191c17-38b1-40f2-b274-98029a634710"
+manifest = "../Manifest.toml"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
